@@ -1,6 +1,6 @@
 ﻿using System.Data.SqlClient;
 
-namespace PIMDESK.DAL
+namespace PIM.DAL
 {
     public class Connection
     {

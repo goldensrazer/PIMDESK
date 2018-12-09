@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PIMDESK.Properties
+namespace PIM.Properties
 {
 
 
